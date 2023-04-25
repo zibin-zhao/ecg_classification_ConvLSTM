@@ -41,4 +41,4 @@ This will train the model on the ECG dataset and save the trained model as train
 This project is released under the MIT License. 
 
 ### Supplementary Files
-- Other model architectures are also provided for your interest including a 'convolution transformer' and also some variable using different deep learning framework (i.e.pytorch-lightning)
+- Other model architectures are also provided including the 'convolution transformer' and also some variable using different deep learning framework (i.e.pytorch-lightning)
